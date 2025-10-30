@@ -28,7 +28,7 @@ public class H3_main {
         if(!anweisung1 && !anweisung2 && !anweisung3 ){
             k = 4;
         }
-        System.out.println(k);
+        //System.out.println(k);
         
 
     }

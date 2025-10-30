@@ -6,10 +6,10 @@ public class H1_main {
 
         int z = 9;
 
-        System.out.println(z);
+       // System.out.println(z);
         if ( z > 10){
             z = z -10;
         }
-        System.out.println(z);
+        //System.out.println(z);
     }
 }
